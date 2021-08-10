@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RohhanRabari
+- 👀 I’m interested in Machine learning, Networking and Aerospace technologies
+- 🌱 I’m currently learning CCNA.
+- 💞️ I’m looking to collaborate on any project.
+- 📫 How to reach me ... rohhan@rabari.family
